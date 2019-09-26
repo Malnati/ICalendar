@@ -18,7 +18,7 @@ Install the dependencies over Python
 Test configuration
 - [ ] cd bin/
 - [ ] ./run -n
--n Would you like to copy the test configuration now? [y/n] 
+Would you like to copy the test configuration now? [y/n] 
 - [ ] y
 
 Copying test cofiguration...
